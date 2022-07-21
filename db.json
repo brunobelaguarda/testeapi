@@ -1,6 +1,6 @@
 {"mesas":[
-          {"id":1,"nome":"250","valor":25.00},
-          {"id":1,"nome":"251","valor":35.00},
-          {"id":1,"nome":"252","valor":45.00},
-          {"id":1,"nome":"253","valor":55.00}
+          {"id":1,"nome":"250","valor":25},
+          {"id":1,"nome":"251","valor":35},
+          {"id":1,"nome":"252","valor":45},
+          {"id":1,"nome":"253","valor":55}
  ]}
