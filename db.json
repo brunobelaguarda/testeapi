@@ -9,6 +9,6 @@
     {"id":1, "code": "458015", "value":"000000001500", "descricao":"Ganhou R$15,00"},
     {"id":2, "code": "052805", "value":"000000000500", "descricao":"Ganhou R$5,00"},
     {"id":3, "code": "456425", "value":"000000002500", "descricao":"Ganhou R$25,00"},
-    {"id":4, "code": "100010", "value":"000000001000", "dadescricaote":"Ganhou R$10,00"}
+    {"id":4, "code": "100010", "value":"000000001000", "descricao":"Ganhou R$10,00"}
     ]
 }
